@@ -1,0 +1,2 @@
+# Seeds
+Seeds cellular automaton
